@@ -1,9 +1,8 @@
-# 🛒 Projeto E-commerce
-
 ## 👨‍💻 Gabriel Ângelo de Jesus Amaral
 
 **Estudante de Ciência de Dados | SQL | Python | Power BI | Análise de Dados**
 
+                                     # 🛒 Projeto E-commerce
 
 [![GitHub](https://img.shields.io/badge/GitHub-gabriel--angelo--021-181717?style=for-the-badge&logo=github)](https://github.com/gabriel-angelo-021)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
