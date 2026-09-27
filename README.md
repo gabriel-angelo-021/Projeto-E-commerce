@@ -81,10 +81,6 @@ Essa regra foi considerada para manter a consistência entre os dados de **venda
 
 O modelo conceitual foi desenvolvido para representar as principais entidades do sistema e seus relacionamentos antes da implementação do banco de dados.
 
-<p align="center">
-  <img src="02_modelo_conceitual/modelo_conceitual.drawio.png" alt="Modelo Conceitual do E-commerce" width="100%">
-</p>
-
 ### Principais entidades
 
 - cliente
@@ -102,10 +98,6 @@ O modelo conceitual foi desenvolvido para representar as principais entidades do
 ## 2. Modelo lógico
 
 A partir do modelo conceitual, foi desenvolvido o modelo lógico, definindo as tabelas, atributos, chaves e relacionamentos.
-
-<p align="center">
-  <img src="03_modelo_logico/modelo_logico.png" alt="Modelo Lógico do E-commerce" width="100%">
-</p>
 
 O modelo lógico serviu como base para a construção do banco de dados.
 
